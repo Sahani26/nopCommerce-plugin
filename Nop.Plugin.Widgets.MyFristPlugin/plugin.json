@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "MyFristPlugin",
+  "SystemName": "Widgets.MyFristPlugin",
+  "Version": "4.70.2",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.MyFristPlugin.dll",
+  "Description": "This plugin create by me for learnig purpose"
+}
