@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "NewTest",
+  "SystemName": "Widgets.NewTest",
+  "Version": "4.70.2",
+  "SupportedVersions": [ "4.70" ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.NewTest.dll",
+  "Description": "NewTest"
+}
